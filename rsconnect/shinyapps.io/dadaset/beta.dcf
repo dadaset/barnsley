@@ -1,0 +1,11 @@
+name: beta
+title:
+username:
+account: dadaset
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5718218
+bundleId: 5610267
+url: https://dadaset.shinyapps.io/beta/
+when: 1645632536.37713
+lastSyncTime: 1645632536.37713
